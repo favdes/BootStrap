@@ -1,0 +1,7 @@
+
+.carousel,.carousel-inner img{
+    height: 360px;
+}
+.carousel-caption{
+    background-color: black;
+}
